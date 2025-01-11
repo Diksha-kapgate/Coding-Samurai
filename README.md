@@ -40,8 +40,7 @@ number-guessing-game/
 ---
 
 ## 🖌️ GUI Preview
-https://github.com/Diksha-kapgate/Coding-Samurai/blob/d481602dfa2b8ec31eb9a976fefb3f558a59a9b9/guess.jpg
----
+![image alt](https://github.com/Diksha-kapgate/Coding-Samurai/blob/d481602dfa2b8ec31eb9a976fefb3f558a59a9b9/guess.jpg)
 
 ## 📧 Contact
 For any inquiries or suggestions, feel free to reach out:
