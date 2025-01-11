@@ -52,8 +52,8 @@ number-guessing-game/
 
 ## 📧 Contact
 For any inquiries or suggestions, feel free to reach out:
-- **Email**: diksha.kapgate@example.com
-- **GitHub**: [DikshaKapgate](https://github.com/DikshaKapgate)
+- **Email**: dikshakapgate02@gmail.com
+- **GitHub**: [Diksha-Kapgate](https://github.com/Diksha-Kapgate)
 
 ---
 
