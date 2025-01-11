@@ -41,7 +41,11 @@ number-guessing-game/
 
 ## Preview
 
+![Screenshot 2025-01-11 191926](https://github.com/user-attachments/assets/5b69fc32-fef2-4c87-a7db-860854d2d846)
 
+![Screenshot 2025-01-11 192039](https://github.com/user-attachments/assets/1ccc853e-ba93-4ab3-a8ff-6041b20e1ba5)
+
+![Screenshot 2025-01-11 192001](https://github.com/user-attachments/assets/1db53c48-44d9-4159-8e2e-e9a889de3a3e)
 
 ![Screenshot 2025-01-11 221317](https://github.com/user-attachments/assets/037c5108-8f74-427d-bd28-89d0f8396c01)
 
